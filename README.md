@@ -1,6 +1,6 @@
-# BuddyAI
+# Traveller's AI BOT
 
-BuddyAI is a Flask-based chatbot with intent matching, file upload support, PDF resume parsing, and CV-based interview question generation.
+Traveller's AI is a Flask-based chatbot with intent matching, file upload support, PDF resume parsing, and CV-based interview question generation.
 
 ## Local Run
 
